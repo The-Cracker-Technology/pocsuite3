@@ -1,0 +1,6 @@
+requests
+PySocks
+requests-toolbelt
+urllib3
+setuptools~=51.1.2
+chardet~=3.0.4
